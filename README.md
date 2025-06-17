@@ -204,12 +204,11 @@ if (!in_array($_SERVER['REMOTE_ADDR'], $allowed_ips)) {
 - **Navigate**: Click folder names to enter directories
 
 ### Keyboard Shortcuts
-----------------------------------
-| Action | Shortcut              |
-|--------|----|------------------|
-| Refresh     | `F5` or `Ctrl+R` |
-| Close Modal | `Esc`            |
-----------------------------------
+
+| Action | Shortcut |
+|--------|----------|
+| Refresh | `F5` or `Ctrl+R` |
+| Close Modal | `Esc` |
 
 ## 🛠️ Customization
 
@@ -342,8 +341,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - 📧 **Email**: support@yourcompany.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/zar7real/php-file-manager/issues)
-- 📖 **Wiki**: [Project Wiki](https://github.com/zar7real/php-file-manager/wiki)
+- 💬 **Issues**: [GitHub Issues](https://github.com/zar7real/LocalFileManager/issues)
+- 📖 **Wiki**: [Project Wiki](https://github.com/zar7real/LocalFileManager/wiki)
 
 ## 🙏 Acknowledgments
 
@@ -357,6 +356,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-[Report Bug](https://github.com/zar7real/php-file-manager/issues) · [Request Feature](https://github.com/zar7real/php-file-manager/issues) · [View Demo](https://your-demo-site.com)
+[Report Bug](https://github.com/zar7real/LocalFileManager/issues) · [Request Feature](https://github.com/zar7real/LocalFileManager/issues) · [View Demo](https://your-demo-site.com)
 
 </div>
