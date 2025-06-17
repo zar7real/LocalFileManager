@@ -340,7 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 **Email**: support@yourcompany.com
+- 📧 **Email**: None
 - 💬 **Issues**: [GitHub Issues](https://github.com/zar7real/LocalFileManager/issues)
 - 📖 **Wiki**: [Project Wiki](https://github.com/zar7real/LocalFileManager/wiki)
 
